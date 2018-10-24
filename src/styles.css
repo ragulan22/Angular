@@ -1,0 +1,33 @@
+
+.btn-danger{
+    margin-left: 40px;
+}
+.btn-primary{
+    margin-left: 20px;
+}
+.table-responsive{
+    overflow-x: hidden;
+}
+
+i{
+    font-size: 20px !important;
+    cursor: pointer;
+}
+
+.edit i{
+    color: #b4b700;
+
+}
+
+.delete i{
+    color: #ff4d4d;
+}
+body{
+    font-size: 14px !important;
+}
+label{
+    color: black;
+}
+h5{
+    color: black;
+}
